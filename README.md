@@ -37,3 +37,17 @@ The system follows a role-based workflow and enforces important business rules s
 - Rejected or cancelled leaves do not deduct balance
 - Managers cannot approve already rejected or cancelled requests
 - Employees can access only their own leave records
+
+### Technology Stack
+
+#### Frontend
+- Framework: React.js(Vite)
+- Styling: CSS
+- Routing: React Router DOM
+
+### Project Setup
+
+#### Running the Frontend 
+- Open a terminal in the frontend directory and install npm dependencies: npm install
+- Run the server: npm run dev
+- The UI will run at: http://localhost:5173
